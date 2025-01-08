@@ -6,3 +6,4 @@ https://docs.google.com/spreadsheets/d/11rAVWjpLKMSJy65j9EwWZN5HRIOZbFKQCyWxZ-CC
 ### Чек-кейсы для тестирования Cart Management и Order Management
 https://app.qase.io/project/G9?suite=182&previewMode=side
 ### Отчеты о дефекте
+[Ссылка на отчеты]([https://docs.google.com/spreadsheets/d/1xCdFHSjLE9OKS54JBRDZPaMdz4qOWr3wSg1L4EbXfOg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1G2yK2jiV1VgjGYRFhDARZDHI30WTngrN/edit?usp=drive_link&ouid=101833378479520029482&rtpof=true&sd=true))
