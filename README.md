@@ -1,6 +1,6 @@
 # 🛒 Тестирование веб-приложений
 ## Проводилось тестирование интернет магзина [https://qa.demoshopping.ru/](https://qa.demoshopping.ru/) и создана тестовая документация
-#### Тест-план для приложения "Интернет-магазин"
+#### Тест-план для тестирования приложения [https://qa.demoshopping.ru/](https://qa.demoshopping.ru/)
 [тест план](https://docs.google.com/spreadsheets/d/1ciFuT7wC0TXtxWMufKRXIZpJlbMCILy8ecKYUJSCvoY/edit?gid=0#gid=0)
 #### Чек-лист для тестирования включая модули Cart Management и Order Management
 [чек-лист](https://docs.google.com/spreadsheets/d/11rAVWjpLKMSJy65j9EwWZN5HRIOZbFKQCyWxZ-CCEhk/edit?gid=1909484657#gid=1909484657)
